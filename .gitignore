@@ -14,3 +14,8 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
+
+###> Ignore .idea files ###
+.idea/
+###< Ignore .idea files ###
+
